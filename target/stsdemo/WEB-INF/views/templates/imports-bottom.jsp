@@ -1,0 +1,1 @@
+<link rel="javascript" href="<c:url value='/resources/js/imagemagnifier.js'/>">
